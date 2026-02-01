@@ -1,4 +1,5 @@
 Hi Thsi si infor
 
-second ammendment
+second amendment
+from git_2
 
